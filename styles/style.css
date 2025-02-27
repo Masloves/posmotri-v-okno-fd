@@ -26,7 +26,7 @@ html {
   width: 100%;
   display: grid;
   grid-template-columns: 711px 1fr;
-  grid-template-rows: 534px; 
+  grid-template-rows: 534px;
   align-items: end;
   gap: 30px;
   margin: 133px 30px;
@@ -120,7 +120,7 @@ html {
 .search-form__pseudo-checkbox {
   display: flex;
   justify-content: center;
-  align-items: center; 
+  align-items: center;
   margin-right: 5px;
   width: 19px;
   height: 19px;
